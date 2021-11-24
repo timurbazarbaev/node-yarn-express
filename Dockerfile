@@ -9,3 +9,4 @@ RUN node -v
 
 WORKDIR /usr/src/app
 CMD ["yarn", "start"]
+
